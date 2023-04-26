@@ -1,4 +1,4 @@
-### Spring Integration 2. Lab. Rabbit
+### Spring Integration 2. Live. Rabbit
 
 #### Описание
 
